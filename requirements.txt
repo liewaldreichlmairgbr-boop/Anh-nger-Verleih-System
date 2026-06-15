@@ -1,6 +1,6 @@
 Flask==2.3.2
 Flask-SQLAlchemy==3.0.5
 SQLAlchemy==2.0.19
-stripe==5.14.0
+stripe==15.13.0
 Werkzeug==2.3.6
 gunicorn==23.0.0
